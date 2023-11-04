@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **benedict.balancio.cics@ust.edu.ph**
 
-- ⚡ Fun fact **I'm a digital aficionado, from Netflix binges to staying updated on tech trends and global events.**
+- ⚡ Fun fact **I'm a digital aficionado, from Netflix binges to staying updated on tech trends and global events. Plus, I personally crafted my current profile photo using Java's 2D graphics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
